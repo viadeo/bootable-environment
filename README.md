@@ -9,7 +9,7 @@ Environment initialization phase for [Bootable](https://github.com/jaredhanson/b
 
 ## Install
 
-    $ npm install bootable-environment
+    $ npm install @viadeo-fcms/bootable-environment
 
 ## Usage
 
